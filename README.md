@@ -1,5 +1,6 @@
 # This repository contains files of project: Escape Station.
-![image](https://github.com/user-attachments/assets/731492c1-e25b-4d04-9ce0-678ff0deba0b)
+<img width="1008" height="593" alt="Projector on" src="https://github.com/user-attachments/assets/cfc138be-d789-4d71-9d6f-db0547a9df35" />
+
 
 ## This AR/VR project is intended to validate my training year at Holberton School
 Special thanks to the authors of the sound and visual resources that allowed me to add some relatable elements to this game:
